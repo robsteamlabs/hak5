@@ -1,0 +1,11 @@
+REM this is a trick to open up notepad and leave a message for our user
+REM the delay is working in milliseconds, we are using command r to open up the run window
+DELAY 1000
+GUI r
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 1000
+STRING Pretty sure I just hacked you - I hope at this point, you are clicking subscribe to our Youtube channel
+
+
