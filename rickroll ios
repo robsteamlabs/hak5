@@ -4,9 +4,10 @@ DELETE
 DELAY 100
 STRING brave
 ENTER
-DELAY 500
+REM must have a delay if you need to bypass facial recognition
+DELAY 4000
 GUI l
-DELAY 100
+DELAY 1000
 STRING https://youtu.be/dQw4w9WgXcQ
 DELAY 100
 ENTER
