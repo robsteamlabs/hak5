@@ -1,0 +1,12 @@
+REM a rickroll for an IOS device - note this only works on iPads - this uses facial recognition if this is setup in brave as long as user is in front of camera
+GUI SPACE
+DELETE
+DELAY 100
+STRING brave
+ENTER
+DELAY 500
+GUI l
+DELAY 100
+STRING https://youtu.be/dQw4w9WgXcQ
+DELAY 100
+ENTER
