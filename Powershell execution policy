@@ -17,3 +17,12 @@ ENTER
 STRING A
 DELAY 2000
 ENTER
+DELAY 1000
+STRING exit
+REM this will close powershell window
+ENTER
+DELAY 1000
+STRING exit
+REM this will close powershell window
+ENTER
+
